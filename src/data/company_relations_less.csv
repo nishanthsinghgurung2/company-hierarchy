@@ -1,0 +1,11 @@
+company_id,name,parent
+c100,Company A Plc,c200
+c101,Company B Plc,c201
+c102,Company C Plc,c200
+c103,Company D Plc,c201
+c201,Company E Plc,c300
+c200,Company F Plc,c301
+c104,Company G Plc,c200
+c301,Company H Plc,
+c203,Company I Plc,c301
+c204,Company J Plc,c301
